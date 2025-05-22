@@ -7,6 +7,6 @@ loadstring(game:HttpGet("https://gist.githubusercontent.com/jdihdzzzhack/06aa247
 ```
 
 # Games
-- Field Trip Z -
+- Field Trip Z
 
 # Showing
