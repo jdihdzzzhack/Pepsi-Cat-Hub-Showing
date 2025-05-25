@@ -3,6 +3,10 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/jdihdzzzhack/Pepsi-Cat-Hub-Showing/refs/heads/main/Source.lua"))()
 ```
 
+# Credit
+- MoneyMainScript
+Yea I'm solo
+
 # Games
 - Field Trip Z
 - Break In (Story 1)
